@@ -1,3 +1,6 @@
+# local ignored files
+supersecretpasswords.txt
+
 # Logs
 logs
 *.log
